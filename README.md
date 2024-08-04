@@ -12,4 +12,4 @@ Hello! I'm Rivaldo Tandoko, a passionate and dedicated Front End Developer with 
 
 ### Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=rtrivaldo&theme=transparent)
+![stats](https://github-readme-stats.vercel.app/api?username=rtrivaldo&theme=github_dark)
